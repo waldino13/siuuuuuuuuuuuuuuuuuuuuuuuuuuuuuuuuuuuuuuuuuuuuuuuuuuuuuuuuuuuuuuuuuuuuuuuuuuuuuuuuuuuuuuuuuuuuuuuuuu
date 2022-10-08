@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+#boton_enviar{
+background-color: blue;
+margin-top:20px;
+margin-bottom:20px ;
+}
+#boton_ordenar{
+    display:none ;
+    background-color: rgb(9, 255, 0);
+    margin-top:20px;
+    margin-bottom:20px ;
+    }
+    input{
+    background-color: aqua;
+    margin:10px ;
+    }
